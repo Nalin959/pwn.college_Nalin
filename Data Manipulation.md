@@ -97,7 +97,7 @@ pwn.college{gct3wiMJiKzsOrBwMWNKoMRSTBw.01NxEzNxwSOwAzNzEzW}
 using cut and tr to extract specific data.
 
 ### References 
-none
+SENSAI
 
 ## Sorting Data
 Sort data into a specific order
